@@ -1,0 +1,23 @@
+Question 1
+1. create new database by setup new connection
+2. fill the information as following:
+   connection name: exam
+   hostname: 192.168.99.100 (because I use docker toolbox, and that is its IP.)
+   port: 3306
+   username: root
+   password: root
+   (same as in my YAML file)
+3. Generate database from script.
+
+
+Question 2
+- JNDI is part of the Java platform, providing applications based on Java technology with a unified interface to multiple naming and directory services.
+
+
+Question 3
+https://github.com/u5913262/EnterpriseAppExam.git
+
+
+Question 4
+- Be careful about using Docker Toolbox because sometimes it might cause some problems that I don't know how it happens and how to solve.
+- Time is not enough for me.
